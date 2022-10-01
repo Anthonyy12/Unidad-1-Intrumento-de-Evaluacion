@@ -33,8 +33,11 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 * El prototipo este disponible a una gran cantidad de gente
 * Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer
 * Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD
-* 
 ## Tabla de historias de usuario
 |ID| Historia de usuario | Estimación | Como probarlo | Responsable |
 |----|---------------------|------------|---------------|-------------|
-|1|Se busca ayudar a las personas con problemas cardiovasculares|
+|1|Se busca ayudar a las personas con problemas cardiovasculares| 2 meses |Usando el prototipo en una persona con problemas del corazon|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
+|2|Tener a la mano una herramienta para detectar anomalias cardiovasculares| - |Probando su portabilidad y que sea facil de guardar y utilizar|Adrián Moreno Corona|
+|3|El prototipo este disponible a una gran cantidad de gente| - |Hacer un estimado del presupuesto para economizar o tratar de que este barato|Daniel Rangel Paredon|
+|4|Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer| - |Alterar a una persona para verificar de que si suene el buzzer|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
+|5|Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD| - |Alterar a una persona para verificar de que si muestre en la pantalla|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
