@@ -24,5 +24,5 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 |  ID  | Componente |              Descripcion           | Imagen |   Cantidad   |    Costo total    |
 |------|------------|------------------------------------|--------|--------------|-------------------|
 |1|ESP32|Módulo Wi-Fi/Bluetooth todo en uno|<img src="https://user-images.githubusercontent.com/114314723/193376886-7900d0fb-52af-4688-911e-957b429efbf4.png" width="100" height="100" />| 1 | $135 |
-|2|Ritmo Xd-58c|Sensor de pulso cardiaco|<img src="![image](https://user-images.githubusercontent.com/114314723/193379050-68b87e15-ce81-4fb3-95aa-67e961894e4a.png)
+|2|Ritmo Xd-58c|Sensor de pulso cardiaco|<img src="https://user-images.githubusercontent.com/114314723/193379050-68b87e15-ce81-4fb3-95aa-67e961894e4a.png
 " width="100" height="100"/>|1|$86|
