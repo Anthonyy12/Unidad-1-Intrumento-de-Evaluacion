@@ -40,7 +40,7 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 |----|---------------------|------------|---------------|-------------|
 |1|Se busca ayudar a las personas con problemas cardiovasculares| 3 |Usando el prototipo en una persona con problemas del corazon|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
 |2|Medir el ritmo cardiaco| 5 |Colocando el dedo índice de cualquier mano|Adrián Moreno Corona|
-|3|El prototipo este disponible a una gran cantidad de gente| 1 - 3 |Hacer un estimado del presupuesto para economizar o tratar de que este barato|Daniel Rangel Paredon|
+|3|El prototipo este disponible a una gran cantidad de gente| 3 |Hacer un estimado del presupuesto para economizar o tratar de que este barato|Daniel Rangel Paredon|
 |4|Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer| 1 |Alterar a una persona para verificar de que si suene el buzzer|Juan Antonio Domínguez Rosales|
 |5|Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD| 2 |Alterar a una persona para verificar de que si muestre en la pantalla|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
 ## Prototipo en dibujo
