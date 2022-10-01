@@ -28,11 +28,13 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 |3|Tft 1.28 Gc9a01 240x240|Pantalla redonda|<img src="https://user-images.githubusercontent.com/114314723/193379353-2e96f6b1-5627-4e7d-a971-098516d9871b.png" width="100" height="100" />|1|$261|
 |4|Sensor Push Button Ky-004|Detecta una acción al momento de presionarlo|<img src="https://user-images.githubusercontent.com/114314723/193379435-b37c6436-b4ae-407b-9f3b-b5e00c2ce917.png" width="100" height="100" />|1|$41|
 ## Epicas del proyecto
-*
-*
-*
-*
+* Se busca ayudar a las personas con problemas cardiovasculares
+* Tener a la mano una herramienta para detectar anomalias cardiovasculares
+* El prototipo este disponible a una gran cantidad de gente
+* Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer
+* Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD
+* 
 ## Tabla de historias de usuario
 |ID| Historia de usuario | Estimación | Como probarlo | Responsable |
 |----|---------------------|------------|---------------|-------------|
-|1|
+|1|Se busca ayudar a las personas con problemas cardiovasculares|
