@@ -21,7 +21,6 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
    |  2  | Visual Studio Code |     1.71    |  Freeware  |
    |  3  |     Arduino IDE    |    2.0.0    |  Freeware  |
 ## Tabla con el hardware utilizado
-   |  ID  | Componente |              Descripcion           | Imagen |   Cantidad   |    Costo total    |
-   |------|------------|------------------------------------|--------|--------------|-------------------|
-   | 1 | ESP32 | Módulo Wi-Fi/Bluetooth todo en uno |![image](https://user-images.githubusercontent.com/114314723/193376886-7900d0fb-52af-4688-911e-957b429efbf4.png)
-| 1 | $135 |
+|  ID  | Componente |              Descripcion           | Imagen |   Cantidad   |    Costo total    |
+|------|------------|------------------------------------|--------|--------------|-------------------|
+|1|ESP32|Módulo Wi-Fi/Bluetooth todo en uno|![image](https://user-images.githubusercontent.com/114314723/193376886-7900d0fb-52af-4688-911e-957b429efbf4.png)| 1 | $135 |
