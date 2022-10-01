@@ -20,3 +20,6 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
    |  1  | MySQL 2014 express | 12.0.2000.8 | Opensource |
    |  2  | Visual Studio Code |     1.71    |  Freeware  |
    |  3  |     Arduino IDE    |    2.0.0    |  Freeware  |
+## Tabla con el hardware utilizado
+   |  ID  | Componente |              Descripcion           | Imagen |   Cantidad   |    Costo total    |
+   | 1 | ESP32 | Módulo Wi-Fi/Bluetooth todo en uno |![screen](https://www.circuitos-electricos.com/wp-content/uploads/ESP32-Especificaciones-y-disenos.jpg)| 1 | $135 |
