@@ -1,4 +1,4 @@
-# Unidad-1-Intrumento-de-Evaluacion
+# Unidad-1-Instrumento-de-Evaluacion
 Proyecto de IoT Unidad 1
 ## Integrantes
 * Juan Antonio Domínguez Rosales
