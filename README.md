@@ -44,4 +44,4 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 |4|Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer| 5 segundos |Alterar a una persona para verificar de que si suene el buzzer|Juan Antonio Domínguez Rosales|
 |5|Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD| 5 segundos |Alterar a una persona para verificar de que si muestre en la pantalla|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
 ## Prototipo en dibujo
-![image](https://user-images.githubusercontent.com/114314723/193393078-b76c334b-a040-414d-aaa2-70506d8c3522.png)
+<img src="https://user-images.githubusercontent.com/114314723/193393078-b76c334b-a040-414d-aaa2-70506d8c3522.png" width="1000" height="1000" />
