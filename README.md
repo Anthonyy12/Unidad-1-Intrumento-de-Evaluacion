@@ -38,10 +38,10 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 ## Tabla de historias de usuario
 |ID| Historia de usuario | Estimación | Como probarlo | Responsable |
 |----|---------------------|------------|---------------|-------------|
-|1|Se busca ayudar a las personas con problemas cardiovasculares| 4 - 1 |Usando el prototipo en una persona con problemas del corazon|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
-|2|Medir el ritmo cardiaco| 5 - 2 |Colocando el dedo índice de cualquier mano|Adrián Moreno Corona|
+|1|Se busca ayudar a las personas con problemas cardiovasculares| 3 |Usando el prototipo en una persona con problemas del corazon|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
+|2|Medir el ritmo cardiaco| 5 |Colocando el dedo índice de cualquier mano|Adrián Moreno Corona|
 |3|El prototipo este disponible a una gran cantidad de gente| 1 - 3 |Hacer un estimado del presupuesto para economizar o tratar de que este barato|Daniel Rangel Paredon|
-|4|Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer| 2  - 5 |Alterar a una persona para verificar de que si suene el buzzer|Juan Antonio Domínguez Rosales|
-|5|Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD| 4 - 5 |Alterar a una persona para verificar de que si muestre en la pantalla|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
+|4|Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer| 1 |Alterar a una persona para verificar de que si suene el buzzer|Juan Antonio Domínguez Rosales|
+|5|Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD| 2 |Alterar a una persona para verificar de que si muestre en la pantalla|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
 ## Prototipo en dibujo
 <img src="https://user-images.githubusercontent.com/114314723/193393078-b76c334b-a040-414d-aaa2-70506d8c3522.png" width="400" height="400" />
