@@ -23,7 +23,7 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 ## Tabla con el hardware utilizado
 |  ID  | Componente |              Descripcion           | Imagen |   Cantidad   |    Costo total    |
 |------|------------|------------------------------------|--------|--------------|-------------------|
-|1|ESP32|Módulo Wi-Fi/Bluetooth todo en uno|<img src="https://user-images.githubusercontent.com/114314723/193376886-7900d0fb-52af-4688-911e-957b429efbf4.png" width="100" height="100" />| 1 | $135 |
+|1|ESP32|Módulo Wi-Fi/Bluetooth todo en uno|<img src="https://user-images.githubusercontent.com/114314723/193376886-7900d0fb-52af-4688-911e-957b429efbf4.png" width="100" height="100" />| 1 | $150 |
 |2|Ritmo Xd-58c|Sensor de pulso cardiaco|<img src="https://user-images.githubusercontent.com/114314723/193379050-68b87e15-ce81-4fb3-95aa-67e961894e4a.png" width="100" height="100" />|1|$86|
 |3|Tft 1.28 Gc9a01 240x240|Pantalla redonda|<img src="https://user-images.githubusercontent.com/114314723/193379353-2e96f6b1-5627-4e7d-a971-098516d9871b.png" width="100" height="100" />|1|$261|
 |4|Sensor Push Button Ky-004|Detecta una acción al momento de presionarlo|<img src="https://user-images.githubusercontent.com/114314723/193379435-b37c6436-b4ae-407b-9f3b-b5e00c2ce917.png" width="100" height="100" />|1|$41|
