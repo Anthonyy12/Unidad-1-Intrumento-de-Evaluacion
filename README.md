@@ -27,17 +27,19 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 |2|Ritmo Xd-58c|Sensor de pulso cardiaco|<img src="https://user-images.githubusercontent.com/114314723/193379050-68b87e15-ce81-4fb3-95aa-67e961894e4a.png" width="100" height="100" />|1|$86|
 |3|Tft 1.28 Gc9a01 240x240|Pantalla redonda|<img src="https://user-images.githubusercontent.com/114314723/193379353-2e96f6b1-5627-4e7d-a971-098516d9871b.png" width="100" height="100" />|1|$261|
 |4|Sensor Push Button Ky-004|Detecta una acción al momento de presionarlo|<img src="https://user-images.githubusercontent.com/114314723/193379435-b37c6436-b4ae-407b-9f3b-b5e00c2ce917.png" width="100" height="100" />|1|$41|
+
 ## Epicas del proyecto
 * Se busca ayudar a las personas con problemas cardiovasculares
-* Tener a la mano una herramienta para detectar anomalias cardiovasculares
+* Medir el ritmo cardiaco
 * El prototipo este disponible a una gran cantidad de gente
 * Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer
 * Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD
+
 ## Tabla de historias de usuario
 |ID| Historia de usuario | Estimación | Como probarlo | Responsable |
 |----|---------------------|------------|---------------|-------------|
 |1|Se busca ayudar a las personas con problemas cardiovasculares| 2 meses |Usando el prototipo en una persona con problemas del corazon|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
-|2|Tener a la mano una herramienta para detectar anomalias cardiovasculares| - |Probando su portabilidad y que sea facil de guardar y utilizar|Adrián Moreno Corona|
-|3|El prototipo este disponible a una gran cantidad de gente| - |Hacer un estimado del presupuesto para economizar o tratar de que este barato|Daniel Rangel Paredon|
-|4|Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer| - |Alterar a una persona para verificar de que si suene el buzzer|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
-|5|Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD| - |Alterar a una persona para verificar de que si muestre en la pantalla|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
+|2|Medir el ritmo cardiaco| 2 a 5 minutos |Colocando el dedo índice de cualquier mano|Adrián Moreno Corona|
+|3|El prototipo este disponible a una gran cantidad de gente| 3 meses |Hacer un estimado del presupuesto para economizar o tratar de que este barato|Daniel Rangel Paredon|
+|4|Alertar al usuario sobre anomalías en su frecuencia cardiaca por el Buzzer| 5 segundos |Alterar a una persona para verificar de que si suene el buzzer|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
+|5|Alertar al usuario sobre anomalias en su frecuencia cardiaca por la pantalla LCD| 5 segundos |Alterar a una persona para verificar de que si muestre en la pantalla|Juan Antonio Domínguez Rosales, Daniel Rangel Paredon, Adrián Moreno Corona|
