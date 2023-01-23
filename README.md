@@ -2,10 +2,11 @@
 Proyecto de IoT Unidad 1
 ## Integrantes
 * Juan Antonio Domínguez Rosales
-* Daniel Rangel Paredón
-* Adrián Moreno Corona
+* Karla Díaz Moya
+* Fernando Arvízu Sotelo
+*
 ## Objetivo general
-El proyecto tiene como principal función la deteción del pulso cardiaco mediante un sensor de pulso (HeartBeat) con el cual podra detectar si la persona que esta utilizandolo tiene ritmo cardiaco alto o bajo. Va dirigido a las personas que pueden tener algun padecimiento del corazón y que pueda detectar algun cambio en su ritmo cardiaco y que este dispositivo pueda notificarles por medio de un pitido de un sensor Buzzer, ademas incluirá una pantalla para mostrar los latidos por minuto 
+El prorposito de este proyecto es crear un robot vehicular autonomo que sea capaz de sembrar semillas en un tramo de terreno donde este un surco para agilizar esta practica de agricultura. 
 ## Objetivos especificos
 * Diseñar boceto del prototipo
 * Diseñar el circuito del prototipo
@@ -17,7 +18,7 @@ El proyecto tiene como principal función la deteción del pulso cardiaco median
 ## Tabla de Software utilizado
    | ID  |      Software      |   Versión   |    Tipo    |
    |-----|--------------------|-------------|------------|
-   |  1  | MySQL 2014 express | 12.0.2000.8 | Opensource |
+   |  1  | SQLite | 3.40.1. | Opensource |
    |  2  | Visual Studio Code |     1.71    |  Freeware  |
    |  3  |     Arduino IDE    |    2.0.0    |  Freeware  |
 ## Tabla con el hardware utilizado
