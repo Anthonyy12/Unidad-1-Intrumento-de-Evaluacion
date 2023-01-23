@@ -4,7 +4,8 @@ Proyecto de IoT Unidad 1
 * Juan Antonio Domínguez Rosales
 * Karla Díaz Moya
 * Fernando Arvízu Sotelo
-*
+* José Remedios Melendez Morales
+* José Carlos Duarte Vázquez
 ## Objetivo general
 El prorposito de este proyecto es crear un robot vehicular autonomo que sea capaz de sembrar semillas en un tramo de terreno donde este un surco para agilizar esta practica de agricultura. 
 ## Objetivos especificos
